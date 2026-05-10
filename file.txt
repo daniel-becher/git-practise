@@ -1,4 +1,8 @@
 my first file
 new function
 dwadawdfawf sy vs
+<<<<<<< HEAD
 "zmena z terminalu" 
+=======
+zmena z githubu
+>>>>>>> 7cf9e101c260a50c2be924d259ab7ccd2740092e
